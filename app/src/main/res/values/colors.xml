@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="sta_activity_color">#388E3C</color>
+    <color name="sta_frag_color">#FFA000</color>
+
+
+    <color name="dyn_activity_color">#C2185B</color>
+    <color name="dya_frag_color">#FBC02D</color>
+
+    <color name="lc_activity_color">#C51162</color>
+    <color name="lc_frag_color">@color/white</color>
+
+    <color name="frag1_color">#B52968</color>
+    <color name="frag2_color">#00C853</color>
+    <color name="frag3_color">#DD2C00</color>
+    <color name="fragment_color">#F4CE36</color>
+
+    <color name="fragment_countydesc_color">#00C853</color>
+</resources>

@@ -1,0 +1,33 @@
+package com.androidninja.myfragment.backstack1;
+
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+
+import androidx.fragment.app.Fragment;
+
+import com.androidninja.myfragment.R;
+
+public class Fragment2 extends Fragment {
+
+
+
+    public Fragment2() {
+        // Required empty public constructor
+    }
+
+    @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
+        // Inflate the layout for this fragment
+        return inflater.inflate(R.layout.fragment2, container, false);
+    }
+
+
+
+    @Override
+    public String toString() {
+        return Fragment2.class.getSimpleName();
+    }
+}
